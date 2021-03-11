@@ -14,7 +14,7 @@ bin=$(dirname $0)
 export PATH=$bin:$PATH
 
 SMA=$bin/../etc/SMA.5kb.bed
-SMN1=$bin/../etc/SMA.5kb.bed
+SMN1=$bin/../etc/SMN1.5kb.bed
 ref=$bin/../ref/chr5.SMN2.1kb.mask.fa
 
 mkdir -p $workdir
